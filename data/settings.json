@@ -142,7 +142,7 @@
 				]
 			},
 			{
-				"title": "dotfiles",
+				"title": "Dotfiles",
 				"color": "magenta",
 				"align": "left",
 				"links": [
@@ -159,6 +159,28 @@
 					{
 						"name": "dotfiles.win",
 						"url": "https://github.com/scillidan/dotfiles.win",
+						"icon": "mdi:github"
+					}
+				]
+			},
+			{
+				"title": "Files",
+				"color": "cyan",
+				"align": "left",
+				"links": [
+					{
+						"name": "scripts",
+						"url": "https://github.com/scillidan/cheats",
+						"icon": "mdi:github"
+					},
+					{
+						"name": "dotfiles",
+						"url": "https://github.com/scillidan/cheatsheets",
+						"icon": "mdi:github"
+					},
+					{
+						"name": "dotfiles.win",
+						"url": "https://github.com/scillidan/bookmarks",
 						"icon": "mdi:github"
 					}
 				]
